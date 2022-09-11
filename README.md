@@ -1,5 +1,5 @@
 # Introduction
-IslamHouse api covers almost all contents areas (items, authors, categories, attachments ... etc)
+IslamHouse api covers almost all content areas (items, authors, categories, attachments ... etc)
 
 This is a simple brief version of the API endpoints, for a full detailed version (with active examples) please use:
 
