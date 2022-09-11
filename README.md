@@ -1,18 +1,13 @@
-# Project: API
 # Introduction
-What does your API do?
+IslamHouse api covers almost all contents areas (items, authors, categories, attachments ... etc)
 
-# Overview
-Things that the developers should know about
+This is a simple brief version of the API endpoints, for a full detailed version (with active examples) please use:
+
+https://developers.islamhouse.com/
 
 # Authentication
-What is the preferred way of using the API?
+Public API
 
-# Error Codes
-What errors and status codes can a user expect?
-
-# Rate limit
-Is there a limit to the number of requests an user can send?
 # 📁 Collection: Categories 
 
 
@@ -248,6 +243,5 @@ Get Sub Cats
 >{{url}}/main/books/ar/ar/1/20/json
 >```
 
-⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃
-_________________________________________________
-Powered By: [postman-to-markdown](https://github.com/bautistaj/postman-to-markdown/)
+
+Please use: https://developers.islamhouse.com for more detailed version of the API
